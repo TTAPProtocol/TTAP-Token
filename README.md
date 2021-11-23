@@ -1,5 +1,5 @@
 # TTAP Token
-The TTAP token is an EIP20 token. The total supply of the token is 3,300,000,000 and each token is divisible up to 18 decimal places. To prevent accidental burns, the token does not allow transfers to the contract itself and to 0x0. Security audit for v0.7 version of the contracts is available here.
+The TTAP token is an ERC20 token. The total supply of the token is 3,300,000,000 and each token is divisible up to 18 decimal places. To prevent accidental burns, the token does not allow transfers to the contract itself and to 0x0. Security audit for v0.7 version of the contracts is available here.
 
 # Details
 - Deployments :
